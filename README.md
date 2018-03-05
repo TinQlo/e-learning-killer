@@ -10,7 +10,9 @@ http://ju.outofmemory.cn/entry/49342
 CTRL+F1   显示/隐藏控制画面
 
 CTRL+F2   显示/隐藏软件主界面
+
 CTRL+F3  强制结束进程
+
 CTRL+F4   瞬间切断电源 销毁证据
 
 下载链接;
