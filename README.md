@@ -4,3 +4,6 @@
 http://ju.outofmemory.cn/entry/49342
 
 
+https://github.com/rutygrsui/e-learning-killer/blob/master/KillControl%20V1.01.exe
+
+
