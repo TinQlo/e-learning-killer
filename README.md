@@ -6,7 +6,7 @@ http://ju.outofmemory.cn/entry/49342
 ======================================================
 下载链接;
 
-[超强大的云开发平台Coding](http://coding.net)
+[e-learning killer](https://github.com/rutygrsui/e-learning-killer/raw/master/KillControl%20V1.01.exe)
 
 
 
