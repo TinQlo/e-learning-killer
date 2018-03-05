@@ -1,6 +1,7 @@
 # e-learning-killer
 
-原网址：
+**以下是原网址**：
+
 破解极域电子教室控制 - 为程序员服务
 http://ju.outofmemory.cn/entry/49342
 
@@ -19,7 +20,7 @@ CTRL+F4   瞬间切断电源 销毁证据
 
 [点击这里](https://github.com/rutygrsui/e-learning-killer/raw/master/KillControl%20V1.01.exe)下载程序，由于原作者使用了某些特殊技术所以杀毒软件会误报。遇到这种情况请添加白名单。
 
-点击下载
+
 
 
 
