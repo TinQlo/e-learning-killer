@@ -15,9 +15,11 @@ CTRL+F3  强制结束进程
 
 CTRL+F4   瞬间切断电源 销毁证据
 
-下载链接;
+下载链接:
 
 [e-learning killer](https://github.com/rutygrsui/e-learning-killer/raw/master/KillControl%20V1.01.exe)
+
+点击下载
 
 
 
