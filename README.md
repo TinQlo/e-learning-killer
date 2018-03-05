@@ -1,4 +1,4 @@
-# e-learning-killer
+# e-learning-killer 破解极域电子教室教师端控制
 
 **以下是原网址**：
 
