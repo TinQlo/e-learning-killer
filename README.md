@@ -12,7 +12,7 @@ http://ju.outofmemory.cn/entry/49342
 
 [点击这里下载程序](https://github.com/rutygrsui/e-learning-killer/raw/master/KillControl%20V1.01.exe)，由于原作者使用了某些特殊技术所以杀毒软件会误报。遇到这种情况请添加白名单。
 
-以下说明复制于原地址：
+## 以下说明复制于原地址：
 
 极域电子教室2007，2010 极域电子教室V62007豪华版 极域电子教室V4 2010专业版
 
