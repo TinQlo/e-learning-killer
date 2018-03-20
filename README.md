@@ -8,7 +8,7 @@ http://ju.outofmemory.cn/entry/49342
 下载链接:
 下方蓝色的 **点击这里下载程序** 是一个超链接，点击即可下载
 
-**姓董的你个咸鱼，超链接都不认识么～**
+~~姓董的你个咸鱼，超链接都不认识么~~ 
 
 [点击这里下载程序](https://github.com/rutygrsui/e-learning-killer/raw/master/KillControl%20V1.01.exe)，由于原作者使用了某些特殊技术所以杀毒软件会误报。遇到这种情况请添加白名单。
 
